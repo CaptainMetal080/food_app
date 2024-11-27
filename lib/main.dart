@@ -33,6 +33,24 @@ class _OrderPageState extends State<OrderPage> {
     FoodItem('Steak & Mash', 12.99),
     FoodItem('Chicken & Rice', 8.50),
     FoodItem('Salad & Proteins', 6.99),
+    FoodItem('Pizza', 12.99),
+    FoodItem('Burger', 8.50),
+    FoodItem('Fried Chicken', 6.99),
+    FoodItem('BLT sandwich', 12.99),
+    FoodItem('Pasta', 8.50),
+    FoodItem('Fries', 3.99),
+    FoodItem('Grilled Salmon', 14.99),
+    FoodItem('Shrimp Tacos', 9.99),
+    FoodItem('Veggie Wrap', 7.50),
+    FoodItem('Sushi Roll', 10.99),
+    FoodItem('Ramen Bowl', 9.50),
+    FoodItem('Pulled Pork Sandwich', 8.99),
+    FoodItem('Taco Platter', 11.50),
+    FoodItem('Chicken Caesar Salad', 7.99),
+    FoodItem('Veggie Burger', 8.50),
+    FoodItem('Mozzarella Sticks', 5.99),
+    FoodItem('Chocolate Lava Cake', 6.50),
+
   ];
 
   List<FoodItem> selectedItems = [];
